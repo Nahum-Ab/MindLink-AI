@@ -2,7 +2,7 @@
 
 **MindLink** is an AI-powered Streamlit app that transforms dense study material into a visual **knowledge graph**, helping you uncover and understand the **core concepts** and how they're connected — using a fully **open-source LLM**.
 
-![MindLink Screenshot](./demo.png) <!-- Optional: add your own screenshot -->
+<img width="1801" height="908" alt="image" src="https://github.com/user-attachments/assets/c92ee70a-aef0-465a-acf3-d5ef2d6a13b1" />
 
 ---
 
@@ -55,4 +55,5 @@ By visually mapping relationships between ideas, MindLink enhances comprehension
 git clone https://github.com/yourusername/mindlink
 cd mindlink
 streamlit run app.py
+
 
