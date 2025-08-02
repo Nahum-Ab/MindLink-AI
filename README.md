@@ -54,5 +54,5 @@ By visually mapping relationships between ideas, MindLink enhances comprehension
 ```bash
 git clone https://github.com/yourusername/mindlink
 cd mindlink
-pip install -r requirements.txt
 streamlit run app.py
+
